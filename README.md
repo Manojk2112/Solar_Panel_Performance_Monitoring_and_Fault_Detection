@@ -74,9 +74,9 @@ The current display in the demonstration version uses a fixed 0.48 A value when 
 
 ## Project Hardware
 
-![Complete Project](images/Product_image.jpg)
+![Complete Project](images/Product_image.jpeg)
 
-![Circuit Connections](images/Circuit.jpg)
+![Circuit Connections](images/Circuit.jpeg)
 
 ![Flow](images/Project_Flow.jpg)
 
