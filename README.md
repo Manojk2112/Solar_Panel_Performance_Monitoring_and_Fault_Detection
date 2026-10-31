@@ -72,6 +72,22 @@ The Arduino source code is available in the `Code` folder.
 ## Important Measurement Note
 The current display in the demonstration version uses a fixed 0.48 A value when the voltage exceeds the configured threshold. Consequently, displayed power is calculated from voltage × 0.48 A. This is a demonstration setting and not a live measurement of panel current.
 
+## Project Hardware
+
+![Complete Project](images/project_setup.jpg)
+
+![Circuit Connections](images/circuit_connection.jpg)
+
+![OLED Display](images/oled_display.jpg)
+
+## Experimental Graphs
+
+![Solar Voltage Graph](images/voltage_graph.png)
+
+![Solar Power Graph](images/power_graph.png)
+
+![Temperature Graph](images/temperature_graph.png)
+
 ## Applications
 - Solar panel performance demonstrations
 - Educational renewable energy monitoring
