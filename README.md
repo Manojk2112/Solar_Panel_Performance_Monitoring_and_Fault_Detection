@@ -74,19 +74,12 @@ The current display in the demonstration version uses a fixed 0.48 A value when 
 
 ## Project Hardware
 
-![Complete Project](images/project_setup.jpg)
+![Complete Project](images/Product_image.jpg)
 
-![Circuit Connections](images/circuit_connection.jpg)
+![Circuit Connections](images/Circuit.jpg)
 
-![OLED Display](images/oled_display.jpg)
+![Flow](images/Project_Flow.jpg)
 
-## Experimental Graphs
-
-![Solar Voltage Graph](images/voltage_graph.png)
-
-![Solar Power Graph](images/power_graph.png)
-
-![Temperature Graph](images/temperature_graph.png)
 
 ## Applications
 - Solar panel performance demonstrations
